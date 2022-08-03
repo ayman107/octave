@@ -1,2 +1,1 @@
-dependencies:
-- octave_kernel
+%%run 2n.ipynb
